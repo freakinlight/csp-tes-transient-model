@@ -37,13 +37,13 @@ A parametric sensitivity study on the overall heat transfer conductance (UA) is 
 ---
 
 ## Repository Structure
-
+```text
 csp-tes-transient-model/
 ├── tes_model.py
 ├── requirements.txt
 ├── README.md
 └── figures/
-
+```
 ---
 
 ## How to Run the Code
