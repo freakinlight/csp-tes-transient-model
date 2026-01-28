@@ -1,4 +1,4 @@
-# CSP Thermal Energy Storage — Transient Discharge Model
+# CSP Thermal Energy Storage: Transient Discharge Model
 
 This repository contains the Python numerical model developed to analyze the transient discharge behavior of a thermal energy storage (TES) system for a Concentrated Solar Power (CSP) application.
 
