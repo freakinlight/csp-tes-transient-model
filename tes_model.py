@@ -5,7 +5,7 @@ from math import pi, sqrt
 from scipy.integrate import solve_ivp
 
 # -------------------------
-# 1) Given data (from your sheet)
+# 1) Given data
 # -------------------------
 @dataclass
 class Props:
